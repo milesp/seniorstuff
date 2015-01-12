@@ -1,0 +1,7 @@
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Model\bin\Debug\ES.Model.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Model\bin\Debug\ES.Model.pdb
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Model\obj\Debug\ES.Model.csprojResolveAssemblyReference.cache
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Model\obj\Debug\ES.Model.csproj.ResolveComReference.cache
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Model\obj\Debug\ES.Model.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Model\obj\Debug\ES.Model.pdb
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Model\obj\Debug\Interop.Microsoft.Office.Core.dll

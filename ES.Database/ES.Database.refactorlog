@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="b719d513-e084-4797-91c5-1d86e4d405f9" ChangeDateTime="01/05/2015 03:17:03">
+    <Property Name="ElementName" Value="[dbo].[WorkPeriod].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[WorkPeriod]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="WorkPeriodID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="0c7fea9c-9c32-44b8-bdbf-be87adc65e8c" ChangeDateTime="01/06/2015 02:49:43">
+    <Property Name="ElementName" Value="[dbo].[WorkPeriod].[numOfShiftsPerDay]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[WorkPeriod]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="NumOfShiftsPerDay" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="369c6dc9-6bd6-4394-b941-a5e8547e8521" ChangeDateTime="01/06/2015 03:14:14">
+    <Property Name="ElementName" Value="[dbo].[WorkDay].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[WorkDay]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Work" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ab25eceb-dc8d-4dab-a9cc-49e1cc5f5e1e" ChangeDateTime="01/06/2015 03:14:31">
+    <Property Name="ElementName" Value="[dbo].[WorkDay].[Work]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[WorkDay]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="DayOfWeek" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e60e1256-c5d9-41aa-b206-a8d912a53a86" ChangeDateTime="01/06/2015 03:19:39">
+    <Property Name="ElementName" Value="[dbo].[Employee].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Employee]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="EmployeeId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b4b599e9-e695-4d7a-a93d-d3e7ab3bc046" ChangeDateTime="01/06/2015 03:22:21">
+    <Property Name="ElementName" Value="[dbo].[Employee].[WorkPeriodId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Employee]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="WorkPeriodID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="7045d8e7-4ce3-4f9e-aeea-8a79f747dec4" ChangeDateTime="01/06/2015 03:22:26">
+    <Property Name="ElementName" Value="[dbo].[Employee].[EmployeeId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Employee]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="EmployeeID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="5e1be577-8973-4505-be94-ced1b26fb7b1" ChangeDateTime="01/06/2015 15:36:25">
+    <Property Name="ElementName" Value="[dbo].[Shift].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Shift]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ShiftID" />
+  </Operation>
+</Operations>

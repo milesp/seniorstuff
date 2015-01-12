@@ -1,0 +1,4 @@
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.DAL\bin\Debug\ES.DAL.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.DAL\bin\Debug\ES.DAL.pdb
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.DAL\obj\Debug\ES.DAL.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.DAL\obj\Debug\ES.DAL.pdb

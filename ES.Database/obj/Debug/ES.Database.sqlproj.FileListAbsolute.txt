@@ -1,0 +1,9 @@
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Database\bin\Debug\ES.Database.dacpac
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Database\bin\Debug\ES.Database.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Database\bin\Debug\ES.Database.pdb
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Database\obj\Debug\ES.Database.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Database\obj\Debug\ES.Database.pdb
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Database\obj\Debug\Model.xml
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Database\obj\Debug\refactor.xml
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Database\obj\Debug\postdeploy.sql
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Database\obj\Debug\predeploy.sql
