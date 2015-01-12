@@ -1,0 +1,8 @@
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Controller\bin\Debug\ES.Controller.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Controller\bin\Debug\ES.Controller.pdb
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Controller\bin\Debug\ES.Model.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Controller\bin\Debug\ES.Model.pdb
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Controller\obj\Debug\ES.Controller.csprojResolveAssemblyReference.cache
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Controller\obj\Debug\ES.Controller.csproj.ResolveComReference.cache
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Controller\obj\Debug\ES.Controller.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\ES.Controller\obj\Debug\ES.Controller.pdb
