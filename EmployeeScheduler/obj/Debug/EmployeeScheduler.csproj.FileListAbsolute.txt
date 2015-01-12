@@ -1,0 +1,13 @@
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\bin\EmployeeScheduler.dll.config
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\bin\EmployeeScheduler.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\bin\EmployeeScheduler.pdb
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\bin\ES.Controller.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\bin\ES.Model.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\bin\ES.Controller.pdb
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\bin\ES.Model.pdb
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\obj\Debug\EmployeeScheduler.csprojResolveAssemblyReference.cache
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\obj\Debug\EmployeeScheduler.csproj.ResolveComReference.cache
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\obj\Debug\EmployeeScheduler.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\obj\Debug\EmployeeScheduler.pdb
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\bin\ES.Database.dll
+C:\Users\Miles\Source\Workspaces\EmployeeScheduler\EmployeeScheduler\EmployeeScheduler\bin\ES.Database.pdb
